@@ -1,0 +1,17 @@
+# Basic NFT Marketplace end to end
+
+This code is for the Tutorial [Build your own NFT Marketplace from Scratch](https://docs.alchemy.com/alchemy/) built by [alchemy.com](https://alchemy.com)
+
+To set up the repository and run the marketplace locally, run the below
+```bash
+git clone https://github.com/OMGWINNING/NFT-Marketplace-Tutorial
+cd NFT-Marketplace-Tutorial
+npm install
+npm start
+```
+
+
+
+API Key: 639798c98dc8833d16cf
+ API Secret: 55877c54879d074578bdf2b3075b1b51f5bc8af020d50812e4370555408df0bf
+ JWT: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySW5mb3JtYXRpb24iOnsiaWQiOiJmYmRjYzM1ZC1lMTU3LTQzMGQtYjc4Yy0zOTMxZDhiZjZhNDIiLCJlbWFpbCI6ImJhbnN1amFuQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJwaW5fcG9saWN5Ijp7InJlZ2lvbnMiOlt7ImlkIjoiRlJBMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfSx7ImlkIjoiTllDMSIsImRlc2lyZWRSZXBsaWNhdGlvbkNvdW50IjoxfV0sInZlcnNpb24iOjF9LCJtZmFfZW5hYmxlZCI6ZmFsc2UsInN0YXR1cyI6IkFDVElWRSJ9LCJhdXRoZW50aWNhdGlvblR5cGUiOiJzY29wZWRLZXkiLCJzY29wZWRLZXlLZXkiOiI2Mzk3OThjOThkYzg4MzNkMTZjZiIsInNjb3BlZEtleVNlY3JldCI6IjU1ODc3YzU0ODc5ZDA3NDU3OGJkZjJiMzA3NWIxYjUxZjViYzhhZjAyMGQ1MDgxMmU0MzcwNTU1NDA4ZGYwYmYiLCJpYXQiOjE2ODYzNzk2MTZ9.vVmeOzEgeX7bnGeUdpupyjuzq5J5O0r3qfPpGmfvWsk

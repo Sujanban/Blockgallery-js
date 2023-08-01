@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "regular";   /*Can be any text*/
+  src: local("BioSansRegular"),
+    url("./fonts/BioSansRegular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "bold";   /*Can be any text*/
+  src: local("BioSansBold"),
+    url("./fonts/BioSansBold.ttf") format("truetype");
+}
+
+*{
+  font-family: 'regular',serf;
+}
